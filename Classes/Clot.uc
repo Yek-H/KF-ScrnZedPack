@@ -17,4 +17,6 @@ defaultproperties
      AmbientSound=Sound'KF_BaseClot.Clot_Idle1Loop'
      Mesh=SkeletalMesh'KF_Freaks_Trip.CLOT_Freak'
      Skins(0)=Combiner'KF_Specimens_Trip_T.clot_cmb'
+     HealthMax=10000
+     Health=10000
 }
