@@ -1,4 +1,4 @@
-class ScrnZedFuncE extends Object
+class ScrnZedFunc extends Object
     config(ScrnZedPackE)
     abstract;
 
