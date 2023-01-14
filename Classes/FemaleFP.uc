@@ -966,7 +966,7 @@ defaultproperties
      SeveredHeadAttachScale=1.200000
      DetachedArmClass=Class'SeveredArmFFP'
      DetachedLegClass=Class'SeveredLegFFP'
-     PlayerCountHealthScale=0.300000
+     PlayerCountHealthScale=0.400000
      OnlineHeadshotOffset=(X=25.0,Z=59.0)
      OnlineHeadshotOffsetCharging=(X=35.0,Z=50.0)
      OnlineHeadshotScale=1.3
@@ -986,8 +986,8 @@ defaultproperties
      GroundSpeed=140.000000
      AttackSpeedMult=0.60
      HeavyAttackSpeedMult=0.45
-     HealthMax=1100.000000
-     Health=1100
+     HealthMax=2200.000000
+     Health=2200
      HeadRadius=8.000000
      HeadHeight=2.500000
      HeadScale=1.300000
