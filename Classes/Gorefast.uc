@@ -17,4 +17,7 @@ defaultproperties
      AmbientSound=Sound'KF_BaseGorefast.Gorefast_Idle'
      Mesh=SkeletalMesh'KF_Freaks_Trip.GoreFast_Freak'
      Skins(0)=Combiner'KF_Specimens_Trip_T.gorefast_cmb'
+     HealthMax=500
+     Health=500
+     PlayerCountHealthScale=0.300000
 }
