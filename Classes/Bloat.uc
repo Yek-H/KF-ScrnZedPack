@@ -19,4 +19,7 @@ defaultproperties
      AmbientSound=Sound'KF_BaseBloat.Bloat_Idle1Loop'
      Mesh=SkeletalMesh'KF_Freaks_Trip.Bloat_Freak'
      Skins(0)=Combiner'KF_Specimens_Trip_T.bloat_cmb'
+     HealthMax=1050
+     Health=1050
+     PlayerCountHealthScale=0.300000
 }
