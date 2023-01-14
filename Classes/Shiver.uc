@@ -527,8 +527,8 @@ defaultproperties
     WaterSpeed=100.000000
     AccelRate=1024.000000
     JumpZ=340.000000
-    HealthMax=300
-    Health=300
+    HealthMax=600
+    Health=600
     PlayerCountHealthScale=0.200000
 
     MenuName="Shiver"
