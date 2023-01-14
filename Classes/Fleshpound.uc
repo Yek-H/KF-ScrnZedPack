@@ -17,4 +17,7 @@ defaultproperties
      AmbientSound=Sound'KF_BaseFleshpound.FP_IdleLoop'
      Mesh=SkeletalMesh'KF_Freaks_Trip.FleshPound_Freak'
      Skins(0)=Combiner'KF_Specimens_Trip_T.fleshpound_cmb'
+     HealthMax=3000
+     Health=3000
+     PlayerCountHealthScale=0.400000
 }
