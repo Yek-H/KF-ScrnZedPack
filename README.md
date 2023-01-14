@@ -2,10 +2,6 @@
 
 ScrN modification of custom monsters, adjusting game balance and bug fixes.
 
-## Features
-
-PLACEHOLDER.
-
 ## Building
 
 Requirements:
