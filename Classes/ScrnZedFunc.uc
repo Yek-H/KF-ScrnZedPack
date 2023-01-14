@@ -1,5 +1,5 @@
-class ScrnZedFunc extends Object
-    config(ScrnZedPack)
+class ScrnZedFuncE extends Object
+    config(ScrnZedPackE)
     abstract;
 
 var config bool bHeadshotSrvAnim;
