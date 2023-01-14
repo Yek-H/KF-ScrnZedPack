@@ -17,4 +17,7 @@ defaultproperties
      AmbientSound=Sound'KF_BaseCrawler.Crawler_Idle'
      Mesh=SkeletalMesh'KF_Freaks_Trip.Crawler_Freak'
      Skins(0)=Combiner'KF_Specimens_Trip_T.crawler_cmb'
+     HealthMax=140
+     Health=140
+     PlayerCountHealthScale=0.300000
 }
