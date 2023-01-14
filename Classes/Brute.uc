@@ -703,7 +703,7 @@ defaultproperties
     SeveredArmAttachScale=1.300000
     SeveredLegAttachScale=1.200000
     SeveredHeadAttachScale=1.500000
-    PlayerCountHealthScale=0.250000
+    PlayerCountHealthScale=0.400000
     OnlineHeadshotOffset=(X=22.000000,Z=68.000000)
     OnlineHeadshotScale=1.300000
     MotionDetectorThreat=5.000000
@@ -749,7 +749,7 @@ defaultproperties
     BurnGroundSpeedMul=0.600000
     HeadHealth=210
     PlayerNumHeadHealthScale=0.15
-    HealthMax=1000.000000
-    Health=1000
+    HealthMax=2000.000000
+    Health=2000
     MenuName="Brute"
 }
