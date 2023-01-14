@@ -8,7 +8,6 @@ Requirements:
 
 * [ScrN Shared](https://github.com/poosh/KF-ScrnShared).
 * ScrN Zed Packages (included in [ScrN Brutal KF Bundle]):
-  * PLACEHOLDER.
 
 **EditPackages**:
 
