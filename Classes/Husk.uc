@@ -18,4 +18,7 @@ defaultproperties
      AmbientSound=Sound'KF_BaseHusk.Husk_IdleLoop'
      Mesh=SkeletalMesh'KF_Freaks2_Trip.Burns_Freak'
      Skins(0)=Texture'KF_Specimens_Trip_T_Two.burns.burns_tatters'
+     HealthMax=1200
+     Health=1200
+     PlayerCountHealthScale=0.300000
 }
