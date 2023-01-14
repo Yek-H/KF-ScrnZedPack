@@ -13,5 +13,5 @@ Requirements:
 
 ```cpp
 EditPackages=ScrnShared
-EditPackages=ScrNZedPack
+EditPackages=ScrNZedPackE
 ```
