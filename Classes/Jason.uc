@@ -172,8 +172,8 @@ defaultproperties
      MeleeAttackHitSound=SoundGroup'KF_EnemiesFinalSnd.GoreFast.Gorefast_HitPlayer'
      HeadHealth=800.000000
      ScoringValue=300
-     HealthMax=1500.000000
-     Health=1500
+     HealthMax=3000.000000
+     Health=3000
      MenuName="Jason"
      AmbientSound=Sound'ScrnZedPack_S.Jason.Jason_Sound'
      Mesh=SkeletalMesh'ScrnZedPack_A.JasonMesh'
